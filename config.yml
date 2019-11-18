@@ -21,7 +21,7 @@ sections:
   product_info:
     use_local_header: true
     latest_stable_version: '2.7'
-    changelog_href: https://docs.pivotal.io/platform/2-8/stemcells/
+    changelog_href: https://docs.pivotal.io/platform/stemcells/
     local_header_img: /images/cloud_rings.png
     local_header_title: Pivotal Platform
     search_placeholder: Search Pivotal Platform Stemcell Release Notes
@@ -33,29 +33,29 @@ sections:
       - <a href="https://community.pivotal.io/s/topic/0TO0P000000IKhwWAG/welcome">Pivotal Support Community</a>
       - <a href="https://resources.docs.pivotal.io/pdfs/pcf-docs-2.6.pdf">PDF</a>
     local_header_version_list:
-      - url_prefix: https://docs.pivotal.io/platform/2-7/stemcells
+      - url_prefix: https://docs.pivotal.io/platform/stemcells
         display_name: v2.7
-      - url_prefix: https://docs.pivotal.io/pivotalcf/2-6/stemcells
+      - url_prefix: https://docs.pivotal.io/platform/stemcells
         display_name: v2.6
-      - url_prefix: https://docs.pivotal.io/pivotalcf/2-5/stemcells
+      - url_prefix: https://docs.pivotal.io/platform/stemcells
         display_name: v2.5
-      - url_prefix: https://docs.pivotal.io/pivotalcf/2-4/stemcells
+      - url_prefix: https://docs.pivotal.io/platform/stemcells
         display_name: v2.4
-      - url_prefix: https://docs.pivotal.io/pivotalcf/2-3/stemcells
+      - url_prefix: https://docs.pivotal.io/platform/stemcells
         display_name: v2.3
-      - url_prefix: https://docs.pivotal.io/pivotalcf/2-2/stemcells
+      - url_prefix: https://docs.pivotal.io/platform/stemcells
         display_name: v2.2
-      - url_prefix: https://docs.pivotal.io/pivotalcf/2-1/stemcells
+      - url_prefix: https://docs.pivotal.io/platform/stemcells
         display_name: v2.1
-      - url_prefix: https://docs.pivotal.io/pivotalcf/2-0/stemcells
+      - url_prefix: https://docs.pivotal.io/platform/stemcells
         display_name: v2.0
-      - url_prefix: https://docs.pivotal.io/pivotalcf/1-12/stemcells
+      - url_prefix: https://docs.pivotal.io/platform/stemcells
         display_name: v1.12
-      - url_prefix: https://docs.pivotal.io/pivotalcf/1-11/stemcells
+      - url_prefix: https://docs.pivotal.io/platform/stemcells
         display_name: v1.11
-      - url_prefix: https://docs.pivotal.io/pivotalcf/1-10/stemcells
+      - url_prefix: https://docs.pivotal.io/platform/stemcells
         display_name: v1.10
-      - url_prefix: https://docs.pivotal.io/pivotalcf/1-9/stemcells
+      - url_prefix: https://docs.pivotal.io/platform/stemcells
         display_name: v1.9
       - <a href="https://resources.docs.pivotal.io/pdfs/pcf-docs-1.8.pdf">v1.8</a>
 
