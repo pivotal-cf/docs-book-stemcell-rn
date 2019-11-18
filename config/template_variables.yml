@@ -1,0 +1,44 @@
+---
+template_variables:
+  book_title: Pivotal Documentation
+  book_title_short: Pivotal Docs
+  title: <span class="title-deemph">Pivotal</span> Documentation
+  title_image: images/icon-p-green.jpg
+  hero_text: "Detailed documentation to help you install, understand, and succeed with Pivotal's enterprise-grade software."
+  product_link: <div class="header-item"><a href="https://network.pivotal.io/products/pivotal-cf">Back to Product Page</a></div>
+  product_url: https://network.pivotal.io/products/pivotal-cf
+  support_link: <a href="https://support.pivotal.io" target="_blank">Support</a>
+  support_call_to_action: <a href="https://support.pivotal.io" target="_blank">Need Support?</a>
+  support_url: https://support.pivotal.io  
+  
+  use_global_header: true
+  global_header_product_href: https://network.pivotal.io/
+  global_header_product_link_text: Downloads
+  
+  current_major_version: "2.8"
+  v_major_version: "v2.8"
+  api_version: "259"
+  gtm_account_id: GTM-MW4LZHR
+  
+# Product variables
+  platform_name: Pivotal Platform
+  platform_old: Pivotal Cloud Foundry
+  platform_code: PCF
+  product_name_lc: pcf
+  app_runtime_full: Pivotal Application Service
+  app_runtime: Application Service
+  app_runtime_abbr: PAS
+  k8s_runtime_full: Enterprise Pivotal Container Service
+  k8s_runtime: Enterprise PKS
+  k8s_runtime_abbr: PKS
+  windows_runtime_full: Pivotal Application Service for Windows
+  windows_runtime: Application Service for Windows
+  windows_runtime_abbr: PASW
+
+# Deprecated variables -- replace with current product variables when possible
+  product_name: Pivotal Platform
+  product_short: PAS
+
+
+
+
