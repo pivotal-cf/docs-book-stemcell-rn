@@ -1,0 +1,25 @@
+<% if product_info['use_local_header'] %>
+  <div class="local-header title-container">
+    <div class="local-header local-title clearfix">
+      <div class='img-container'><img src="<%= product_info['local_header_img'] %>"></div>
+      <span class="local-header-title"><%= product_info['local_header_title'] %></span>
+        <span class="local-header header-dropdown-content">
+          <ul>
+            <% if product_info['local_header_version_list'] %>
+              <% product_info['local_header_version_list'].each do |version| %>
+                <li>
+                  <% if version.is_a?(Hash) %>
+                    <a href="<%= version['url_prefix'] %><%= current_page.path.sub(product_info['url_prefix'], '') %>"><%= version['display_name'] %></a>
+                  <% else %>
+                    <%= version %>
+                  <% end %>
+                </li>
+              <% end %>
+            <% end %>
+          </ul>
+        </span>
+
+      <!-- search was here -->
+    </div>
+  </div>
+<% end %>
