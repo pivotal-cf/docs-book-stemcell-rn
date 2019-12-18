@@ -17,7 +17,7 @@ sections:
     name: pivotal-cf/docs-stemcell-rn
     ref: 'master'
   directory: platform/stemcells
-  subnav_template: pcf-subnav.erb
+  subnav_template: stemcell-subnav.erb
   product_info:
     use_local_header: true
     changelog_href: https://docs.pivotal.io/platform/stemcells/
