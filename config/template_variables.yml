@@ -1,10 +1,10 @@
 ---
 template_variables:
-  book_title: Pivotal Documentation
-  book_title_short: Pivotal Docs
-  title: <span class="title-deemph">Pivotal</span> Documentation
+  book_title: VMware Tanzu Documentation
+  book_title_short: VMware Tanzu Docs
+  title: <span class="title-deemph">VMware Tanzu</span> Documentation
   title_image: images/icon-p-green.jpg
-  hero_text: "Detailed documentation to help you install, understand, and succeed with Pivotal's enterprise-grade software."
+  hero_text: "Detailed documentation to help you install, understand, and succeed with VMware Tanzu enterprise-grade software."
   product_link: <div class="header-item"><a href="https://network.pivotal.io/products/pivotal-cf">Back to Product Page</a></div>
   product_url: https://network.pivotal.io/products/pivotal-cf
   support_link: <a href="https://support.pivotal.io" target="_blank">Support</a>
@@ -20,23 +20,24 @@ template_variables:
   api_version: "259"
   gtm_account_id: GTM-MW4LZHR
   
-# Product variables
-  platform_name: Pivotal Platform
+  # Tanzu product variables
+  platform_name: Ops Manager
   platform_old: Pivotal Cloud Foundry
   platform_code: PCF
   product_name_lc: pcf
-  app_runtime_full: Pivotal Application Service
-  app_runtime: Application Service
-  app_runtime_abbr: PAS
-  k8s_runtime_full: Enterprise Pivotal Container Service
-  k8s_runtime: Enterprise PKS
+  app_runtime_full: VMware Tanzu Application Service for VMs
+  app_runtime_abbr: TAS for VMs
+  app_runtime_abbr_lc: tas
+  segment_runtime_full: Isolation Segment
+  k8s_runtime_full: VMware Enterprise PKS
   k8s_runtime_abbr: PKS
-  windows_runtime_full: Pivotal Application Service for Windows
-  windows_runtime: Application Service for Windows
-  windows_runtime_abbr: PASW
+  windows_runtime_full: VMware Tanzu Application Service for VMs &#91;Windows&#93;
+  windows_runtime_abbr: TAS for VMs &#91;Windows&#93;
+  ops_manager_full: Ops Manager
+  ops_manager: Ops Manager
 
 # Deprecated variables -- replace with current product variables when possible
-  product_name: Pivotal Platform
+  product_name: Ops Manager
   product_short: PAS
 
 
