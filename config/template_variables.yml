@@ -21,6 +21,7 @@ template_variables:
   gtm_account_id: GTM-MW4LZHR
   
   # Tanzu product variables
+  product_network: VMware Tanzu Network
   platform_name: Ops Manager
   platform_old: Pivotal Cloud Foundry
   platform_code: PCF
