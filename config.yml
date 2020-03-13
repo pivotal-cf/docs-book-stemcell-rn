@@ -22,13 +22,13 @@ sections:
     use_local_header: true
     changelog_href: https://docs.pivotal.io/platform/stemcells/
     local_header_img: /images/cloud_rings.png
-    local_header_title: Pivotal Platform
-    search_placeholder: Search Pivotal Platform Stemcell Release Notes
+    local_header_title: Ops Manager
+    search_placeholder: Search Ops Manager Stemcell Release Notes
     url_prefix: platform/stemcells
     local_header_links:
       - <a href="https://network.pivotal.io/">Download</a>
       - <a href="https://support.pivotal.io/hc/en-us/requests/new">Ask for Help</a>
-      - <a href="https://community.pivotal.io/s/topic/0TO0P000000IKhwWAG/welcome">Pivotal Support Community</a>
+      - <a href="https://community.pivotal.io/s/topic/0TO0P000000IKhwWAG/welcome">Support Community</a>
       - <a href="https://resources.docs.pivotal.io/pdfs/pcf-docs-2.6.pdf">PDF</a>
 
 - repository:
