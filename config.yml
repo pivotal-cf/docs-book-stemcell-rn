@@ -29,7 +29,6 @@ sections:
       - <a href="https://network.pivotal.io/">Download</a>
       - <a href="https://support.pivotal.io/hc/en-us/requests/new">Ask for Help</a>
       - <a href="https://community.pivotal.io/s/topic/0TO0P000000IKhwWAG/welcome">Knowledge Base</a>
-      - <a href="https://resources.docs.pivotal.io/pdfs/pcf-docs-2.6.pdf">PDF</a>
 
 - repository:
     name: pivotal-cf/docs-partials
