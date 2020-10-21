@@ -16,15 +16,15 @@ sections:
 - repository:
     name: pivotal-cf/docs-stemcell-rn
     ref: 'master'
-  directory: platform/stemcells
+  directory: stemcells
   subnav_template: stemcell-subnav.erb
   product_info:
     use_local_header: true
-    changelog_href: https://docs.pivotal.io/platform/stemcells/
+    changelog_href: https://docs.pivotal.io/stemcells/
     local_header_img: /images/cloud_rings.png
     local_header_title: Ops Manager
     search_placeholder: Search Ops Manager Stemcell Release Notes
-    url_prefix: platform/stemcells
+    url_prefix: stemcells
     local_header_links:
       - <a href="https://network.pivotal.io/">Download</a>
       - <a href="https://support.pivotal.io/hc/en-us/requests/new">Ask for Help</a>
