@@ -26,8 +26,7 @@ sections:
     search_placeholder: Search Ops Manager Stemcell Release Notes
     url_prefix: stemcells
     local_header_links:
-      - <a href="https://network.pivotal.io/">Download</a>
-      - <a href="https://support.pivotal.io/hc/en-us/requests/new">Ask for Help</a>
+      - <a href="https://network.pivotal.io/products/stemcells-ubuntu-xenial/">Download from Tanzu Network</a>
       - <a href="https://community.pivotal.io/s/topic/0TO0P000000IKhwWAG/welcome">Knowledge Base</a>
 
 - repository:
