@@ -1,8 +1,6 @@
 docs-book-stemcell-rn
 ===========
 
-This repository stores the bookbinder book files that publish Linux stemcell release notes for Pivotal Platform, from the content repo `docs-stemcell-rn`.
+This repo is only being used for redirects located in the `redirects.rb` file.
 
-All Linux stemcell release notes publish from `master` branch of `docs-stemcell-rn`.
-
-See the [docs-stemcell-rn](https://github.com/pivotal-cf/docs-stemcell-rn/edit/master/README.md) repo for more information.
+For all files related to this documentation, including the table of contents (`toc.md`) and variables (`template_variables.yml`), see the content repo [pivotal-cf/docs-stemcell-rn](https://github.com/pivotal-cf/docs-stemcell-rn).
